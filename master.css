@@ -1,0 +1,32 @@
+body {
+   font-family: 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+}
+
+h1 {text-align: center;
+    background-color: rgba(0, 36, 2, 0.781);
+    color: rgb(0, 0, 0);
+    
+}
+
+img {
+    height: 100px;
+    
+    text-align: center;
+}
+
+figcaption span {
+    font-size: .75em;
+}
+
+p#Product-Description {
+    margin: 20px 0 20px 0;
+    text-align: center;
+}
+
+div.reviews {
+    padding: 10px;
+    background-color: lightsteelblue;
+    margin: 20px 0 20px 0;
+}
